@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying in **Chandigarh University**
  
- 🌱 I’m currently learning **React, NextJS **
+ 🌱 I’m currently learning **React, NextJS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
@@ -28,7 +28,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://astrix-05.github.io/Portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Astrix05%20Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -74,3 +77,7 @@
 </div>
 
 <br/>
+
+<!-- Portfolio link added below for easy access -->
+add this portfolio link here --->
+[https://astrix-05.github.io/Portfolio/](https://astrix-05.github.io/Portfolio/)
